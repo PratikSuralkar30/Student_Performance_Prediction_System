@@ -84,10 +84,6 @@ npm run dev
 
 Your browser will automatically open or you can navigate to `http://localhost:3000`.
 
-## 📊 Sample Visualizations
-*(Note: Once you run `train.py`, add your confusion matrix screenshot here by saving it to the `images/` folder and linking it!)*
-- `images/app_screenshot.png`
-- `images/confusion_matrix.png`
 
 ---
 *Developed for Data Science Portfolio | Open Source & Beginner Friendly*
