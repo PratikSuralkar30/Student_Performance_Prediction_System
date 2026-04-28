@@ -1,0 +1,16 @@
+# Environments
+env/
+venv/
+.env
+
+# Next.js
+web/node_modules/
+web/.next/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
