@@ -14,3 +14,11 @@ __pycache__/
 # IDEs
 .vscode/
 .idea/
+
+# Untracked from Git
+web/public/
+web/AGENTS.md
+web/CLAUDE.md
+models/
+data/
+outputs/Screenshot 2026-04-28 170044.png
